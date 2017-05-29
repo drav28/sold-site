@@ -9,3 +9,14 @@
     font-family: Arial;
     color: lightgrey;
 }
+
+.Button {
+    background-color: aliceblue;
+    margin-left: 20px;
+    margin-bottom: 2px;
+    width: 150px;
+    height: 25px;
+    font-family: Arial;
+    text-align: center;
+    vertical-align: middle;
+}
